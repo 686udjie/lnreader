@@ -3,7 +3,7 @@
 
 NS_ASSUME_NONNULL_BEGIN
 
-@interface RCTNativeEpubUtil : NSObject<NativeEpubUtilSpec>
+@interface RCTNativeEpubUtil : NSObject<NativeEpubSpec>
 
 @end
 

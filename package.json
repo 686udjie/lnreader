@@ -75,7 +75,7 @@
     "htmlparser2": "^10.0.0",
     "i18n-js": "^4.5.1",
     "lodash-es": "^4.17.21",
-    "lottie-ios": "^3.5.0",
+    "lottie-ios": "3.4.0",
     "protobufjs": "^7.5.4",
     "react": "19.1.0",
     "react-native": "^0.81.4",

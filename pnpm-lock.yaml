@@ -117,8 +117,8 @@ importers:
         specifier: ^4.17.21
         version: 4.17.21
       lottie-ios:
-        specifier: ^3.5.0
-        version: 3.5.0
+        specifier: 3.4.0
+        version: 3.4.0
       protobufjs:
         specifier: ^7.5.4
         version: 7.5.4
@@ -3458,8 +3458,8 @@ packages:
   lottie-ios@3.2.3:
     resolution: {integrity: sha512-mubYMN6+1HXa8z3EJKBvNBkl4UoVM4McjESeB2PgvRMSngmJtC5yUMRdhbbrIAn5Liu3hFGao/14s5hQIgtkRQ==}
 
-  lottie-ios@3.5.0:
-    resolution: {integrity: sha512-DM6BYLhHTzvUsK89AjY+K9RwVGkOBwbH/iytjyZUmFbXz8DVsoPEyy+c7L5NZmVouZHvLnOQp6NaYTkwMo+iOg==}
+  lottie-ios@3.4.0:
+    resolution: {integrity: sha512-qnV8UrawwnBRf5V0no2yxlPUE69vzfFqpxEEXGTZhb1/WX1xewqVNYvtbguqwQkdu9IT9D5WC1U9CHZ1KbkGDw==}
 
   lottie-react-native@5.1.6:
     resolution: {integrity: sha512-vhdeZstXMfuVKwnddYWjJgQ/1whGL58IJEJu/iSf0XQ5gAb4pp/+vy91mdYQLezlb8Aw4Vu3fKnqErJL2hwchg==}
@@ -9133,7 +9133,7 @@ snapshots:
 
   lottie-ios@3.2.3: {}
 
-  lottie-ios@3.5.0: {}
+  lottie-ios@3.4.0: {}
 
   lottie-react-native@5.1.6(lottie-ios@3.2.3)(react-native@0.81.5(@babel/core@7.28.4)(@react-native-community/cli@20.0.2(typescript@5.9.3))(@react-native/metro-config@0.81.5(@babel/core@7.28.4))(@types/react@19.1.17)(react@19.1.0))(react@19.1.0):
     dependencies:
