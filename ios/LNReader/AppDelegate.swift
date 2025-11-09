@@ -32,9 +32,10 @@ class AppDelegate: ExpoAppDelegate {
     )
     
     if let w = window {
-      let splashScreenBackground = UIColor(red: 31/255, green: 32/255, blue: 36/255, alpha: 1)
-      w.backgroundColor = splashScreenBackground
-      w.rootViewController?.view.backgroundColor = splashScreenBackground
+       let splashScreenBackground = UIColor(red: 31/255, green: 32/255, blue: 36/255, alpha: 1)
+       w.backgroundColor = splashScreenBackground
+       w.rootViewController?.view.backgroundColor = splashScreenBackground
+       w.overrideUserInterfaceStyle = .light
       let t = Dynamic()
       let animationSize = CGSize(width: 200, height: 200)
       let screenBounds = UIScreen.main.bounds

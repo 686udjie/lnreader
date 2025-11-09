@@ -8,8 +8,9 @@ import Lottie
     let animationView = AnimationView(name: lottieName)
     animationView.frame = rootView.frame
     animationView.center = rootView.center
-    animationView.backgroundColor = UIColor.white;
-    return animationView;
+    animationView.backgroundColor = UIColor.clear
+    animationView.contentMode = .scaleAspectFit
+    return animationView
   }
 
   @objc func play(animationView: AnimationView) {
